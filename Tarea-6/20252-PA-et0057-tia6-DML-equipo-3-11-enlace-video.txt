@@ -1,0 +1,11 @@
+--
+-- Tarea 5 - Parte #1 del Proyecto de Aula
+-- ENLACE A VIDEO (youtube, vimeo, drive de google, entre otros.
+--
+-- Miembros del grupo
+--Andrés Felipe Espinosa Ramirez
+--
+
+--
+-- Colocar el enlace al video con nombre "20252-PA-et0057-tia6-DML-equipo-3-video"
+--https://youtu.be/0eV5EBmYHHk
